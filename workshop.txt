@@ -1,0 +1,13 @@
+version=1
+id=2902013458
+title=[B41]Remastered Kitsune's Crossbow Mod (Sound Fix + Double shot at a time Fix)
+description=This is a Modified version of [url=https://steamcommunity.com/workshop/filedetails/?id=2572385719] Kitsune's Crossbow Mod[/url]  and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2844721214]Remastered Kitsune's Crossbow Mod (Sound Fix)[/url].
+description=
+description=If you have [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2847408431&searchtext=Coavins+Firearm+Repair]Coavins Firearm Repair[/url] installed and want to use Kitsune Crossbows Remastered (Sound Fix), you need this fix because some weapons will fire two bullets.
+description=
+description=[h1]Use only one mod.[/h1]
+description=
+description=Workshop ID: 2902013458
+description=Mod ID: KitsuneCrossbowSoundFix+DoubleshotatatimeFix
+tags=Build 41;Weapons
+visibility=public

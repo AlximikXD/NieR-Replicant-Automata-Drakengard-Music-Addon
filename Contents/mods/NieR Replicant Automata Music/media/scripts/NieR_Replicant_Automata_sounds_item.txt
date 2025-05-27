@@ -1,0 +1,157 @@
+module Base {
+
+    sound City Ruin_NieR Replicant Automata
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/City Ruin_NieR Replicant Automata.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+
+    sound Kaine Salvation_NieR Replicant Automata
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/Kaine Salvation_NieR Replicant Automata.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+    
+	sound Vague Hope_NieR Replicant Automata
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/Vague Hope_NieR Replicant Automata.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+
+    sound Song of the Ancients_NieR Replicant Automata
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/Song of the Ancients_NieR Replicant Automata.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+
+    sound Halua_NieR Replicant Automata
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/Halua_NieR Replicant Automata.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+
+    sound Grandma_NieR Replicant Automata
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/Grandma_NieR Replicant Automata.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+
+    sound Dependent Weakling_NieR Replicant Automata
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/Dependent Weakling_NieR Replicant Automata.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+
+    sound Voice of No Return_NieR Replicant Automata
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/Voice of No Return_NieR Replicant Automata.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+
+    sound Fleeting Words_NieR Replicant Automata
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/Fleeting Words_NieR Replicant Automata.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+
+    sound Yonah_NieR Replicant Automata
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/Yonah_NieR Replicant Automata.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+
+    sound Weight of the World_NieR Replicant Automata
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/Weight of the World_NieR Replicant Automata.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+
+}
