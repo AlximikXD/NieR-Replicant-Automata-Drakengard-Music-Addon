@@ -1,13 +1,33 @@
-version=1
-id=2902013458
-title=[B41]Remastered Kitsune's Crossbow Mod (Sound Fix + Double shot at a time Fix)
-description=This is a Modified version of [url=https://steamcommunity.com/workshop/filedetails/?id=2572385719] Kitsune's Crossbow Mod[/url]  and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2844721214]Remastered Kitsune's Crossbow Mod (Sound Fix)[/url].
+version=0.0.4
+id=2960400616
+title=[B41/42]NieR Replicant/Automata/Drakengard 3 Lifestyle Addon
+description=[h1]Addon for the Lifestyle mod that adds OSTs from the Nier/Drakengard games.[/h1]
 description=
-description=If you have [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2847408431&searchtext=Coavins+Firearm+Repair]Coavins Firearm Repair[/url] installed and want to use Kitsune Crossbows Remastered (Sound Fix), you need this fix because some weapons will fire two bullets.
+description=[img]https://i.postimg.cc/3Jsqbrb7/Table.png[/img]
 description=
-description=[h1]Use only one mod.[/h1]
 description=
-description=Workshop ID: 2902013458
-description=Mod ID: KitsuneCrossbowSoundFix+DoubleshotatatimeFix
-tags=Build 41;Weapons
+description=
+description=[h1]Credits and special thanks:[/h1]
+description=
+description=[code][b]Lifestyle mod developers: Ross, Angry, Dhireal
+description=
+description=Original Music: Keiichi Okabe
+description=
+description=TAB: Cecil Chau (GuitarSVD)[/b][/code]
+description=
+description=
+description=[h1]For changelogs please visit:[/h1]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2960400616]CHANGE NOTES[/url].
+description=
+description=[h1]Technical Information:[/h1]
+description=[code]Workshop ID: 2960400616
+description=Mod ID: NieR Replicant/Automata/Drakengard 3 Lifestyle Addon
+description=Build 41/42
+description=Tags Build 41 / Build 42 / Silly/Fun[/code]
+description=
+description=[url=https://github.com/AlximikXD/Remastered-Kitsune-s-Crossbow-Mod-Sound-Fix-Double-shot-at-a-time-Fix-/issues] [img]https://i.postimg.cc/9fZv2VVj/Github.png[/img] [/url]
+description=
+description=[url=https://ko-fi.com/alximik] [img]https://i.postimg.cc/50v9DDKH/Fo-fi.png[/img] [/url] 
+description=
+tags=Build 41;Build 42;Silly/Fun
 visibility=public
