@@ -1,0 +1,28 @@
+ContextMenu_EN = {
+
+	ContextMenu_00_01_AG_RAD = "Aethervox",
+	ContextMenu_00_02_AG_RAD = "Kaine's theme",
+	ContextMenu_01_01_AG_RAD = "The Tower",
+	ContextMenu_01_02_AG_RAD = "Halua",
+	ContextMenu_02_01_AG_RAD = "Escalate",
+	ContextMenu_02_02_AG_RAD = "Dispossession",
+	ContextMenu_03_01_AG_RAD = "Vague Hope",
+	ContextMenu_04_01_AG_RAD = "Peaceful Sleep",
+	ContextMenu_04_02_AG_RAD = "Kainé Salvation",
+	ContextMenu_05_01_AG_RAD = "Black Song",
+	ContextMenu_05_02_AG_RAD = "Yonah",
+	ContextMenu_06_01_AG_RAD = "A Beautiful Song",
+	ContextMenu_06_02_AG_RAD = "City Ruin",
+	ContextMenu_06_03_AG_RAD = "Shadowlord",
+	ContextMenu_07_01_AG_RAD = "Amusement Park",
+	ContextMenu_07_02_AG_RAD = "Dependent Weakling",
+	ContextMenu_07_03_AG_RAD = "Fleeting Words",
+	ContextMenu_08_01_AG_RAD = "Song of the Ancients",
+	ContextMenu_08_02_AG_RAD = "Grandma",
+	ContextMenu_09_01_AG_RAD = "Voice of No Return",
+	ContextMenu_09_02_AG_RAD = "The Wretched Automations",
+	ContextMenu_10_01_AG_RAD = "Weight of the World",
+	
+	ContextMenu_05_01_EG_RAD = "Song of Ancients Devola",
+	
+}

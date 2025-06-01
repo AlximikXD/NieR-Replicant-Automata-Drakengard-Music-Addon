@@ -1,0 +1,291 @@
+module Base {
+
+    sound Acoustic Guitar_00_Drakengard 3_Aethervox (Empty Tone)
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_00_Drakengard 3_Aethervox (Empty Tone).ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_00_NieR Replicant_ Kaine's theme (trailer edition)
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_00_NieR Replicant_ Kaine's theme (trailer edition).ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_01_NieR Automata_The Tower
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_01_NieR Automata_The Tower.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_01_Nier Replicant Ver1.22_Halua Emil
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_01_Nier Replicant Ver1.22_Halua Emil.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_02_NieR Automata Ver 1.1a_OP escalate
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_02_NieR Automata Ver 1.1a_OP escalate.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_02_Nier Replicant Ver1.22_Dispossession
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_02_Nier Replicant Ver1.22_Dispossession.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_03_NieR Automata_Vague Hope
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_03_NieR Automata_Vague Hope.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_04_NieR Automata_Peaceful Sleep
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_04_NieR Automata_Peaceful Sleep.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_04_Nier Replicant Ver1.22_Kainé Salvation
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_04_Nier Replicant Ver1.22_Kainé Salvation.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_05_Drakengard 3_Black Song (Kuroi Uta)
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_05_Drakengard 3_Black Song (Kuroi Uta).ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_05_NieR Replicant_Yonah Ashes of Dreams
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_05_NieR Replicant_Yonah Ashes of Dreams.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_06_NieR Automata_A Beautiful Song
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_06_NieR Automata_A Beautiful Song.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_06_NieR Automata_City Ruin
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_06_NieR Automata_City Ruin.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_06_Nier Replicant Ver1.22_Shadowlord
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_06_Nier Replicant Ver1.22_Shadowlord.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_07_NieR Automata_Amusement Park
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_07_NieR Automata_Amusement Park.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_07_NieR Automata_Dependent Weakling (Eve Battle Theme)
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_07_NieR Automata_Dependent Weakling (Eve Battle Theme).ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_07_Nier Replicant Ver1.22_Fleeting Words (Mermaid Louise theme)
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_07_Nier Replicant Ver1.22_Fleeting Words (Mermaid Louise theme).ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_08_NieR Automata_Song of the Ancients_Atonement
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_08_NieR Automata_Song of the Ancients_Atonement.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_08_Nier Replicant Ver1.22_Grandma
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_08_Nier Replicant Ver1.22_Grandma.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_09_NieR Automata_Voice of No Return Hollow Dreams
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_09_NieR Automata_Voice of No Return Hollow Dreams.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_09_NieR Replicant_The Wretched Automations
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_09_NieR Replicant_The Wretched Automations.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Acoustic Guitar_10_NieR Automata_Weight of the World
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Acoustic Guitar/Acoustic Guitar_10_NieR Automata_Weight of the World.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+
+    sound Electric Guitar_05_NieR Automata_Song of Ancients Devola
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Electric Guitar/Electric Guitar_05_NieR Automata_Song of Ancients Devola.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+	
+    sound Violin_05_NieR Automata_A Beautiful Song
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/Instruments/Violin/Violin_05_NieR Automata_A Beautiful Song.ogg,
+		distanceMin = 10, distanceMax = 100,
+		reverbFactor = 0.1, volume = 0.5,
+		
+		}
+    }
+
+}

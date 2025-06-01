@@ -4,5 +4,6 @@ description= <H1> <CENTER> <RGB:1,0,0> You need to enable one of the lifestyle m
 poster=preview.png
 icon=icon.png
 author=Alximik
-modversion=0.0.5.
+modversion=0.0.6.
+multiplayer=true
 url=https://ko-fi.com/alximik
